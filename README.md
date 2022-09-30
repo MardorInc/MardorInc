@@ -6,7 +6,6 @@ Hello, world! 👋
     <li>A newcomer to the coding world</li>
     <li>Still learning the very basics on technology of program coding</li>
     <li>Civil Engineer graduate, experienced Site Engineer in urban infrastructure construction</li>
-    <li>Experienced user of AutoCad and Revit</li> 
     <li><b>The more I learn conding, the more I love it!</b></li>
     
 </ul>
