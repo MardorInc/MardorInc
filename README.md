@@ -1,5 +1,18 @@
-### Hello, world! 👋
-<br>
+<h1>
+Hello, world!
+</h1>
+<h2>
+<ul>
+    <li>A newcomer to the coding world</li>
+    <li>Still learning the very basics on technology of program coding</li>
+    <li>Civil Engineer graduate, experienced Site Engineer in urban infrastructure construction</li>
+    <li>Experienced user of AutoCad and Revit</li>
+    <strong>
+    <li>The more I learn conding, the more I love it!</li>
+    </strong>
+</ul>
+</h2>
+    
 
 
 <!--
